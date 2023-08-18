@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js , Tailwind , TS**
 
-- 👯 I’m looking to collaborate on **web Development Projects**
+- 👯 I’m looking to collaborate on **MERN STACK Projects**
 
 - 📫 How to reach me **dinojkumar.connect@gmail.com**
 
