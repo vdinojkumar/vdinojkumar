@@ -1,5 +1,7 @@
+
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/vdinojkumar/)
 <h1 align="center">Hi 👋, I'm Dinoj Kumar V</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e4714h6dom4i3i62u1tmvkv02vpquh2z6dqiynzo5vu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
